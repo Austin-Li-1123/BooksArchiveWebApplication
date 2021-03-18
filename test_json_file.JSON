@@ -1,0 +1,71 @@
+[
+  {
+    "_id": {
+      "$oid": "603d99433f4f13f03e9d02a6"
+    },
+    "book_url": "https://www.goodreads.com/book/show/4099.The_Pragmatic_Programmer",
+    "title": "TESTqweqweEST",
+    "book_id": 4099,
+    "ISBN": "9780201616224",
+    "author_url": "https://www.goodreads.com/author/show/2815.Andy_Hunt",
+    "author": "Andy Hunt",
+    "rating": 4.32,
+    "rating_count": 16634,
+    "review_count": 969,
+    "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1401432508l/4099.jpg",
+    "similar_books": [
+      "https://www.goodreads.com/book/show/3735293-clean-code",
+      "https://www.goodreads.com/book/show/85009.Design_Patterns",
+      "https://www.goodreads.com/book/show/44936.Refactoring",
+      "https://www.goodreads.com/book/show/4845.Code_Complete",
+      "https://www.goodreads.com/book/show/13629.The_Mythical_Man_Month",
+      "https://www.goodreads.com/book/show/10284614-the-clean-coder",
+      "https://www.goodreads.com/book/show/58128.Head_First_Design_Patterns",
+      "https://www.goodreads.com/book/show/18043011-clean-architecture",
+      "https://www.goodreads.com/book/show/44919.Working_Effectively_with_Legacy_Code",
+      "https://www.goodreads.com/book/show/2998152-javascript",
+      "https://www.goodreads.com/book/show/67833.Extreme_Programming_Explained",
+      "https://www.goodreads.com/book/show/387190.Test_Driven_Development",
+      "https://www.goodreads.com/book/show/34927404-effective-java",
+      "https://www.goodreads.com/book/show/179133.Domain_Driven_Design",
+      "https://www.goodreads.com/book/show/23232941-soft-skills",
+      "https://www.goodreads.com/book/show/23463279-designing-data-intensive-applications",
+      "https://www.goodreads.com/book/show/43713.Structu"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "603d99443f4f13f03e9d02a7"
+    },
+    "book_url": "https://www.goodreads.com/book/show/3735293-clean-code",
+    "title": "TEST dgfsffsfsdom name",
+    "book_id": 3735293,
+    "ISBN": "9780132350884",
+    "author_url": "https://www.goodreads.com/author/show/45372.Robert_C_Martin",
+    "author": "Robert C. Martin",
+    "rating": 4.4,
+    "rating_count": 15934,
+    "review_count": 950,
+    "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1436202607l/3735293._SX318_.jpg",
+    "similar_books": [
+      "https://www.goodreads.com/book/show/4099.The_Pragmatic_Programmer",
+      "https://www.goodreads.com/book/show/85009.Design_Patterns",
+      "https://www.goodreads.com/book/show/44936.Refactoring",
+      "https://www.goodreads.com/book/show/58128.Head_First_Design_Patterns",
+      "https://www.goodreads.com/book/show/4845.Code_Complete",
+      "https://www.goodreads.com/book/show/34927404-effective-java",
+      "https://www.goodreads.com/book/show/387190.Test_Driven_Development",
+      "https://www.goodreads.com/book/show/44919.Working_Effectively_with_Legacy_Code",
+      "https://www.goodreads.com/book/show/179133.Domain_Driven_Design",
+      "https://www.goodreads.com/book/show/23463279-designing-data-intensive-applications",
+      "https://www.goodreads.com/book/show/23215733-the-software-craftsman",
+      "https://www.goodreads.com/book/show/13629.The_Mythical_Man_Month",
+      "https://www.goodreads.com/book/show/22512931-building-microservices",
+      "https://www.goodreads.com/book/show/127932.Java_Concurrency_in_Practice",
+      "https://www.goodreads.com/book/show/67833.Extreme_Programming_Explained",
+      "https://www.goodreads.com/book/show/2998152-javascript",
+      "https://www.goodreads.com/book/show/4268826-growing-object-oriented-software-guided-by-tests",
+      "https://www.goodreads.com/book/show/70156.Patterns_of_Enterprise_Application_Architecture"
+    ]
+  }
+]
